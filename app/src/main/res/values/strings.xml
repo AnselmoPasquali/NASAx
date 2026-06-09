@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">NASAX</string>
+
+    <!-- General -->
+    <string name="background_stars">Starry background</string>
+    <string name="apod_image">Astronomy picture of the day</string>
+    <string name="add_to_favorites">Add to favorites</string>
+    <string name="read_more">Read more…</string>
+    <string name="read_less">Read less</string>
+    <string name="search_by_date">Search by date</string>
+    <string name="nasa_official">NASA official</string>
+
+    <!-- Home -->
+    <string name="home_title">NASA Explorer</string>
+    <string name="home_subtitle">The universe at your fingertips</string>
+    <string name="home_apod_title">APOD of the Day</string>
+    <string name="home_apod_subtitle">Astronomy Picture of the Day</string>
+    <string name="home_favorites_title">Favorites</string>
+    <string name="home_favorites_subtitle">Your saved photos and videos</string>
+    <string name="home_archive_title">Archive</string>
+    <string name="home_archive_subtitle">Browse by month, since 1995</string>
+    <string name="home_quiz_title">Quiz</string>
+    <string name="home_quiz_subtitle">Test your astronomy knowledge</string>
+    <string name="home_explore_title">Explore</string>
+    <string name="home_explore_subtitle">Random NASA discoveries</string>
+
+    <!-- APOD Fragment -->
+    <string name="apod_header_title">Today\'s APOD</string>
+    <string name="apod_header_subtitle">Astronomy Picture of the Day</string>
+    <string name="loading_apod">Loading APOD…</string>
+    <string name="apod_error_title">APOD Error</string>
+    <string name="apod_too_many_requests">Too many requests.\nWait 30–60 seconds.</string>
+    <string name="apod_error_prefix">Error: </string>
+    <string name="refreshing">Refreshing…</string>
+    <string name="added_to_favorites">Added to favorites</string>
+    <string name="removed_from_favorites">Removed from favorites</string>
+    <string name="preparing_share">Preparing…</string>
+    <string name="could_not_load_image">Could not load image</string>
+    <string name="share_failed">Share failed: </string>
+    <string name="share_chooser_title">Share </string>
+
+    <!-- Archive -->
+    <string name="archive_title">Archive</string>
+    <string name="archive_subtitle">Browse by month, since 1995</string>
+
+    <!-- Favorites -->
+    <string name="favorites_title">Your Favorites</string>
+    <string name="favorites_empty">No saved photos yet</string>
+
+    <!-- Explore -->
+    <string name="explore_title">Explore</string>
+    <string name="explore_subtitle">Random NASA discoveries</string>
+    <string name="explore_shuffle">⟳  Shuffle</string>
+
+    <!-- Quiz -->
+    <string name="quiz_title">Quiz</string>
+    <string name="quiz_subtitle">Test your astronomy knowledge</string>
+    <string name="quiz_next">Next →</string>
+    <string name="quiz_see_results">See results</string>
+    <string name="quiz_complete">Quiz Complete!</string>
+    <string name="quiz_play_again">Play again</string>
+    <string name="quiz_error_prefix">Error: </string>
+    <string name="quiz_no_questions">No questions received</string>
+    <string name="quiz_api_error_prefix">API error </string>
+    <string name="quiz_progress">Question %1$d of %2$d</string>
+    <string name="quiz_score_format">%1$d / %2$d</string>
+    <string name="quiz_difficulty_easy">Easy</string>
+    <string name="quiz_difficulty_medium">Medium</string>
+    <string name="quiz_difficulty_hard">Hard</string>
+    <string name="quiz_msg_expert">🌟 Astronomy expert!</string>
+    <string name="quiz_msg_good">🚀 Great job, explorer!</string>
+    <string name="quiz_msg_keep_going">🔭 Keep exploring the cosmos!</string>
+    <string name="quiz_msg_try_again">🌌 The universe awaits — try again!</string>
+
+    <!-- Save / share -->
+    <string name="save_label">Save</string>
+    <string name="share_label">Share</string>
+    <string name="tap_to_close">Tap the image\nto close</string>
+    <string name="saving">Saving…</string>
+    <string name="download_failed">Download failed</string>
+    <string name="could_not_save">Could not save image</string>
+    <string name="saved_to_gallery">Saved to gallery ✓</string>
+    <string name="error_prefix">Error: </string>
+
+    <!-- Video badge -->
+    <string name="video_badge">▶  Video</string>
+
+    <!-- Network errors -->
+    <string name="error_too_many_requests">Too many API requests.\nWait a few minutes.</string>
+    <string name="error_offline_no_cache">Offline – no cached data for this month.</string>
+    <string name="error_generic_prefix">Error: </string>
+
+    <!-- NASA News -->
+    <string name="news_title">News</string>
+    <string name="news_subtitle">Latest news from NASA</string>
+    <string name="home_news_title">NASA News</string>
+    <string name="home_news_subtitle">Latest news from space</string>
+    <string name="news_image_desc">News image</string>
+
+    <!-- Quiz stats -->
+    <string name="stats_title">Quiz Stats</string>
+    <string name="stats_subtitle">Your progress over time</string>
+    <string name="stats_games_played">%1$d games played</string>
+    <string name="stats_avg_score">%1$d%% average</string>
+    <string name="stats_chart_label">Last 10 games</string>
+    <string name="stats_history_label">HISTORY</string>
+    <string name="stats_empty">No games yet. Play your first quiz!</string>
+    <string name="stats_btn">📊 Stats</string>
+
+    <!-- Widget -->
+    <string name="widget_default_title">Astronomy Picture of the Day</string>
+    <string name="widget_default_date">—</string>
+</resources>

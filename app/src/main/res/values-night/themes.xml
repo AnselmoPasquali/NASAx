@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.NASAX" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Colori NASA ufficiali -->
+        <item name="colorPrimary">#fa001b</item>        <!-- Rosso NASA -->
+        <item name="colorPrimaryContainer">#fa001b</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+
+        <item name="colorSecondary">#0033a8</item>      <!-- Blu NASA -->
+        <item name="colorSecondaryContainer">#0033a8</item>
+
+        <item name="colorSurface">#0A0A0F</item>        <!-- Scuro profondo -->
+        <item name="colorOnSurface">#FFFFFF</item>
+        <item name="colorSurfaceVariant">#1C1C2E</item>
+
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>

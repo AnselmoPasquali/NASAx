@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Base backgrounds -->
+    <color name="bg_deep">#08080F</color>
+    <color name="bg_card">#111128</color>
+
+    <!-- Section accent colours -->
+    <color name="accent_apod">#2979FF</color>
+    <color name="accent_favorites">#FF4757</color>
+    <color name="accent_archive">#00BFA5</color>
+    <color name="accent_quiz">#FF9100</color>
+    <color name="accent_explore">#AA00FF</color>
+
+    <!-- Section card backgrounds -->
+    <color name="card_apod">#0D1A3A</color>
+    <color name="card_favorites">#2A0D14</color>
+    <color name="card_archive">#0A2020</color>
+    <color name="card_quiz">#281A08</color>
+    <color name="card_explore">#180A2A</color>
+
+    <!-- Text -->
+    <color name="text_secondary">#AAAACC</color>
+    <color name="text_hint">#666688</color>
+
+    <!-- Stroke -->
+    <color name="stroke">#2A2A4A</color>
+</resources>

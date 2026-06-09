@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "530503238130",
+    "project_id": "nasax-7b676",
+    "storage_bucket": "nasax-7b676.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530503238130:android:f10d7403cedeee2d376b6b",
+        "android_client_info": {
+          "package_name": "com.example.nasax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530503238130-rn2aeveuo1unohslh4incrl07goh73ae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nasax",
+            "certificate_hash": "7b51e747cfe266a0973c0f61e73f0f15ae813ccc"
+          }
+        },
+        {
+          "client_id": "530503238130-tmctii8ujse5aat6tvq5h3vcm5l1itv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkJa20yWX8Z7jpP2b6OwWsG17NOz_LJUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530503238130-tmctii8ujse5aat6tvq5h3vcm5l1itv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

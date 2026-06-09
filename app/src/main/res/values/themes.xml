@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.NASAX" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#2979FF</item>
+        <item name="colorPrimaryContainer">#0D1A3A</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#AA00FF</item>
+        <item name="colorSecondaryContainer">#180A2A</item>
+        <item name="colorSurface">#08080F</item>
+        <item name="colorOnSurface">#FFFFFF</item>
+        <item name="colorSurfaceVariant">#111128</item>
+        <item name="colorError">#FF4757</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowBackground">@color/bg_deep</item>
+    </style>
+</resources>
